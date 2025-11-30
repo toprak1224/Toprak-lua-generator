@@ -38,3 +38,47 @@ You only need Python 3 installed on your computer to run this project.
    ```bash
    git clone [https://github.com/yourusername/toprak-lua-generator.git](https://github.com/yourusername/toprak-lua-generator.git)
    cd toprak-lua-generator
+<div align="center">
+
+# 🎮 Toprak Lua Generator
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GUI](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge)](https://docs.python.org/3/library/tkinter.html)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+**Steam oyun manifestlerini otomatik olarak işleyip Lua scriptlerine dönüştüren gelişmiş ve modern bir araç.**
+
+[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Kullanım](#-kullanım) • [İletişim](#-iletişim)
+
+---
+
+<img width="896" height="1097" alt="image" src="https://github.com/user-attachments/assets/43947a5a-8f91-4abc-9ccf-6b94024c98da" />
+
+
+
+</div>
+
+## 📖 Hakkında
+
+**Toprak Lua Generator**, oyun geliştiricileri ve mod yapımcıları için tasarlanmış güçlü bir otomasyon aracıdır. Steam'in karmaşık `.manifest` ve `config.vdf` dosyalarını analiz eder, şifreleme anahtarlarını (Decryption Keys) **Depot ID**'leri ile otomatik olarak eşleştirir ve saniyeler içinde kullanıma hazır Lua scriptleri oluşturur.
+
+Manuel veri girişi hatalarına son verir ve entegre API desteği sayesinde manifest dosyalarına doğrudan erişim kolaylığı sağlar.
+
+## ✨ Özellikler
+
+* **🔍 Otomatik Algılama:** Sisteminizdeki Steam `config.vdf` dosyasını otomatik olarak bulur ve okur.
+* **☁️ API Entegrasyonu:** ManifestHub API desteği ile manifest dosyalarını program içinden doğrudan indirebilirsiniz.
+* **📂 Toplu İşlem:** Birden fazla `.manifest` dosyasını aynı anda işleyerek zaman kazandırır.
+* **📝 Esnek Çıktı:** İster tek bir birleşik Lua dosyası, ister her manifest için ayrı ayrı dosyalar oluşturun.
+* **🎨 Modern Arayüz:** Göz yormayan, şık "Dark Mode" (Karanlık Mod) kullanıcı arayüzü.
+* **🔗 SteamDB Bağlantısı:** Tek tıkla ilgili oyunun SteamDB sayfasına hızlı erişim.
+* **⚡ Hızlı ve Güvenli:** Tüm işlemler yerel bilgisayarınızda yapılır, verileriniz güvendedir.
+
+## 🚀 Kurulum
+
+Bu projeyi çalıştırmak için bilgisayarınızda Python 3'ün yüklü olması yeterlidir.
+
+1. **Projeyi indirin:**
+   ```bash
+   git clone [https://github.com/kullaniciadi/toprak-lua-generator.git](https://github.com/kullaniciadi/toprak-lua-generator.git)
+   cd toprak-lua-generator
