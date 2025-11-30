@@ -10,9 +10,9 @@
 
 ---
 
-![Interface Preview](<img width="896" height="1097" alt="image" src="https://github.com/user-attachments/assets/7c22e654-0841-4ec1-9d07-4c03868cdf41" />
+<img width="896" height="1097" alt="image" src="https://github.com/user-attachments/assets/7c22e654-0841-4ec1-9d07-4c03868cdf41" />
 )
-*(Please add your screenshot here / Lütfen ekran görüntüsünü buraya ekleyin)*
+
 
 </div>
 
